@@ -22,3 +22,5 @@ The edge between Course A and Course B will be wider than the edge between Cours
 
 The bold diagrams have the most common path from each course have much wider edges.
 Example from above: The edge from Course A to Course B should be wider than the edges between Course A and Course C, and between Course A and Course D. The edge between Course A and Course C should have the same width as the edge between Course A and Course D. 
+
+Note: If the text in the diagrams is too small (it most likely is) then download it and zoom in
